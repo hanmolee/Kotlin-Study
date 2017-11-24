@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="sign_in_username">Input your Name</string>
+    <string name="signIn_password">Password</string>
+    <string name="signIn_button">Login</string>
+    <string name="sigIn_alert_invalid_user_title">비어있네요</string>
+    <string name="sigIn_alert_invalid_user_message">채워요</string>
+    <string name="dialog_button_close">닫기</string>
+</resources>
